@@ -1,0 +1,64 @@
+com/example/database/viewholder/PostViewHolder.java
+ com.example.database.viewholder.PostViewHolder
+com/example/database/MyApplication.java
+ com.example.database.MyApplication
+com/example/database/BaseActivity.java
+ com.example.database.BaseActivity
+com/example/database/models/Post.java
+ com.example.database.models.Post
+com/example/database/ChatActivity.java
+ com.example.database.ChatActivity
+ com.example.database.ChatActivity$1
+ com.example.database.ChatActivity$2
+ com.example.database.ChatActivity$3
+ com.example.database.ChatActivity$4
+ com.example.database.ChatActivity$5
+ com.example.database.ChatActivity$MessageViewHolder
+com/example/database/MainActivity.java
+ com.example.database.MainActivity
+ com.example.database.MainActivity$1
+ com.example.database.MainActivity$2
+com/example/database/BuildConfig.java
+ com.example.database.BuildConfig
+com/example/database/models/FriendlyMessage.java
+ com.example.database.models.FriendlyMessage
+com/example/database/fragment/RecentPostsFragment.java
+ com.example.database.fragment.RecentPostsFragment
+com/example/database/fragment/MyTopPostsFragment.java
+ com.example.database.fragment.MyTopPostsFragment
+com/example/database/SignInActivity.java
+ com.example.database.SignInActivity
+ com.example.database.SignInActivity$1
+ com.example.database.SignInActivity$2
+com/example/database/SwitchActivity.java
+ com.example.database.SwitchActivity
+com/example/database/PostDetailActivity.java
+ com.example.database.PostDetailActivity
+ com.example.database.PostDetailActivity$1
+ com.example.database.PostDetailActivity$2
+ com.example.database.PostDetailActivity$CommentAdapter
+ com.example.database.PostDetailActivity$CommentAdapter$1
+ com.example.database.PostDetailActivity$CommentViewHolder
+com/example/database/models/Comment.java
+ com.example.database.models.Comment
+com/example/database/fragment/PostListFragment.java
+ com.example.database.fragment.PostListFragment
+ com.example.database.fragment.PostListFragment$1
+ com.example.database.fragment.PostListFragment$1$1
+ com.example.database.fragment.PostListFragment$1$2
+ com.example.database.fragment.PostListFragment$2
+com/example/database/fragment/MyPostsFragment.java
+ com.example.database.fragment.MyPostsFragment
+com/example/database/NewPostActivity.java
+ com.example.database.NewPostActivity
+ com.example.database.NewPostActivity$1
+ com.example.database.NewPostActivity$2
+com/example/database/BasicActivity.java
+ com.example.database.BasicActivity
+ com.example.database.BasicActivity$1
+ com.example.database.BasicActivity$2
+ com.example.database.BasicActivity$3
+ com.example.database.BasicActivity$4
+ com.example.database.BasicActivity$5
+com/example/database/models/User.java
+ com.example.database.models.User
